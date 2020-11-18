@@ -6,7 +6,7 @@ Based on _luchenguang_ preset ([https://github.com/luchenguang/ChromeDebuggerTou
 
 
 
-![alt text](https://github.com/SergioSuarezDev/DeveloperToolsTouchBar_BetterTouchTool/blob/main/img/install.jpg?raw=true)
+![alt text](https://github.com/SergioSuarezDev/DeveloperToolsTouchBar_BetterTouchTool/blob/main/img/screenshot.jpg?raw=true)
 
 ## How to io import:
 1. Download the bttpreset file.  
