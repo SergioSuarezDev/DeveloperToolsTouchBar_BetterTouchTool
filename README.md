@@ -6,7 +6,7 @@ Based on _luchenguang_ preset ([https://github.com/luchenguang/ChromeDebuggerTou
 
 
 
-![alt text](https://github.com/SergioSuarezDev/DeveloperToolsTouchBar_BetterTouchTool/blob/master/screenshot.jpg?raw=true)
+![alt text](https://github.com/SergioSuarezDev/DeveloperToolsTouchBar_BetterTouchTool/blob/main/img/install.jpg?raw=true)
 
 ## How to io import:
 1. Download the bttpreset file.  
@@ -14,5 +14,5 @@ Based on _luchenguang_ preset ([https://github.com/luchenguang/ChromeDebuggerTou
 3. Choose the file you just download.  
 4. Enjoy your TouchBar !
 
-![alt text](https://github.com/SergioSuarezDev/DeveloperToolsTouchBar_BetterTouchTool/blob/master/install.jpg?raw=true)
+![alt text](https://github.com/SergioSuarezDev/DeveloperToolsTouchBar_BetterTouchTool/blob/main/img/install.jpg?raw=true)
 
